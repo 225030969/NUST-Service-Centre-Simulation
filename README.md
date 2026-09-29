@@ -99,7 +99,7 @@ on real data.
 | Member | Parts worked on |
 |--------|-----------------|
 |Shaida Mutendere  225171856  | Task A1 (Queue),Tasks B1 and B2 (Selection and Insertion Sort),Tasks B3 and B4 (Merge and Quick Sort) |
-|  | Task A2 (Linked List), Part D menu options 4–7 |
+| Siteketa Marthin 225030969 | Task A2 (Linked List) |
 |Romeo Beukes   224072528  | Task A3 (Stack) and Task A4 (Array statistics) |
 | Siteketa Marthin 225030969 | Tasks B1 and B2 (Selection and Insertion Sort java codes) |
 | Siteketa Marthin 225030969 | Tasks B3 and B4 (Merge and Quick Sort java codes) |
