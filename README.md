@@ -98,11 +98,11 @@ on real data.
 
 | Member | Parts worked on |
 |--------|-----------------|
-|Shaida Mutendere  225171856  | Task A1 (Queue)|
+|Shaida Mutendere  225171856  | Task A1 (Queue),Tasks B1 and B2 (Selection and Insertion Sort),Tasks B3 and B4 (Merge and Quick Sort) |
 |  | Task A2 (Linked List), Part D menu options 4–7 |
 |Romeo Beukes   224072528  | Task A3 (Stack) and Task A4 (Array statistics) |
-| Siteketa Marthin 225030969 | Tasks B1 and B2 (Selection and Insertion Sort) |
-| Siteketa Marthin 225030969 | Tasks B3 and B4 (Merge and Quick Sort) |
+| Siteketa Marthin 225030969 | Tasks B1 and B2 (Selection and Insertion Sort java codes) |
+| Siteketa Marthin 225030969 | Tasks B3 and B4 (Merge and Quick Sort java codes) |
 |Siteketa Marthin 225030969| Part C experiment, Part E pseudocode, Part F report |
 
 All members are responsible for understanding the complete submitted solution.
